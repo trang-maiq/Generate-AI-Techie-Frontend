@@ -1,0 +1,33 @@
+{
+  "components": [
+    {
+      "id": "HeroSplitWithImage"
+    },
+    {
+      "id": "BannerWithLink"
+    },
+    {
+      "id": "HeroSimpleCentered"
+    },
+    {
+      "id": "TestimonialsGrid"
+    },
+    {
+      "id": "StatsSimpleGrid"
+    },
+    {
+      "id": "CtaSimpleCentered"
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText"
+    },
+    {
+      "id": "NewsletterCenteredCard"
+    },
+    {
+      "id": "FooterSimpleCentered"
+    }
+  ],
+  "theme": "dark",
+  "font": ""
+}
